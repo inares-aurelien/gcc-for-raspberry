@@ -5,6 +5,10 @@ I compiled it for Raspberry Pi 2 B.
 I may compile it for other RPI if requested ... and if I have one.
 
 ## How to install
+Download the file:
+`wget https://github.com/inares/gcc-for-raspberry/raw/gcc-8.2.0/gcc-8.2.0-rpi2b-binaries.tar.bz2`
+
+Extract the file:
 #### `tar -C /usr/local/ -xjf gcc-8.2.0-rpi2b-binaries.tar.bz2`
 This will extract the files in /usr/local/gcc-8.2.0
 
