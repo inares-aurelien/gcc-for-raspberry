@@ -1,6 +1,6 @@
 # GCC for Raspberry Pi
 
-This repo store the binaries of GGC compiled for RPI.
+This repo store the binaries of GCC compiled for RPI.
 I compiled it for Raspberry Pi 2 B.
 I may compile it for other RPI if requested ... and if I have one.
 
